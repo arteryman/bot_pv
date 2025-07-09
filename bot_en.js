@@ -290,7 +290,7 @@ List of commands
 ➿〰️〰️〰️〰️〰️〰️〰️➿
 ▶️ <code>cleanbanall</code>
 ➿〰️〰️〰️〰️〰️〰️〰️➿
-〰️〰️@Arterycode〰️〰️
+〰️〰️@DevArtery〰️〰️
 ➿〰️〰️〰️〰️〰️〰️〰️➿`,
       reply_to_message_id: message.message_id,
       parse_mode: "HTML",
