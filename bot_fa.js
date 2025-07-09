@@ -294,7 +294,7 @@ async function onstart (message,db) {
 ▶️ <code>cleanbanall</code>
 ◀️ پاکسازی لیست بن شدگان
 ➿〰️〰️〰️〰️〰️〰️〰️➿
-〰️〰️@Arterycode〰️〰️
+〰️〰️@DevArtery〰️〰️
 ➿〰️〰️〰️〰️〰️〰️〰️➿`,
       reply_to_message_id: message.message_id,
       parse_mode: "HTML",
