@@ -17,7 +17,7 @@ Run Telegram messaging bot on Cloudflare Worker.
 11. Click "Send". In the right panel should appear `Ok`. If 401 Unauthorized appears, you may have used a wrong bot token.
 12. Alright, it's done. Now you can use the messaging bot.
 
-## [Arterycode](https://t.me/Artery_code)
+## [DevArtery](https://t.me/ownerArtery)
 ## فارسی
 
 # ربات تلگرام در Cloudflare Workers
@@ -48,4 +48,4 @@ Run Telegram messaging bot on Cloudflare Worker.
 
 
 
-## [Arterycode](https://t.me/Artery_code)
+## [DevArtery](https://t.me/ownerArtery)
